@@ -1,4 +1,3 @@
-
 def wordcount(file_name: str):
     text_file = open(file_name, 'r')
     data: str = text_file.read()

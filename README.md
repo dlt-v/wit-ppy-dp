@@ -8,6 +8,7 @@ Zadania (20pkt)
 -   big_litera
 -   encrypt_sc
 -   babagra
+-   is_pangram
 
 Zadania (40pkt)
 
