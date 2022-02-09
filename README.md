@@ -16,3 +16,4 @@ Zadania (40pkt)
 -   yoda_translator
 -   wordcount
 -   dziadek_dzidek
+-   kalkulator_lukasiewicza
