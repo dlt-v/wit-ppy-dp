@@ -4,11 +4,12 @@ Na bazie pytań z poprzedniego roku + z zadań zaocznych tego roku. Używaj na w
 
 Zadania (20pkt)
 
-- deck_of_cards
+-   deck_of_cards
+-   big_litera
 
 Zadania (40pkt)
 
--   dspam_confidence
+-   dspam_confidence * 2
 -   yoda_translator
 -   wordcount
--   dziadekDzidek
+-   dziadek_dzidek
