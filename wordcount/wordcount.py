@@ -18,7 +18,7 @@ def wordcount(file_name: str):
     # clean dictionary
     cleaned_dict = {}
     for word in word_count.keys():
-        if word_count[word] > 2:
+        if word_count[word] >= 2 and len(word) > 2:
             cleaned_dict[word] = word_count[word]
 
     text_file.close()

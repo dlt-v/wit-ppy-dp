@@ -7,6 +7,7 @@ Zadania (20pkt)
 -   deck_of_cards
 -   big_litera
 -   encrypt_sc
+-   babagra
 
 Zadania (40pkt)
 
