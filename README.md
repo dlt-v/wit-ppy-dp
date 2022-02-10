@@ -10,6 +10,7 @@ Zadania
     -   [encrypt_sc](https://github.com/dlt-v/kowalski-python/tree/main/encrypt_sc)
     -   [babagra](https://github.com/dlt-v/kowalski-python/tree/main/babagra)
     -   [is_pangram](https://github.com/dlt-v/kowalski-python/tree/main/is_pangram)
+    -   [lotto](https://github.com/dlt-v/kowalski-python/tree/main/lotto)
 -   (40pkt)
     -   [dspam_confidence](https://github.com/dlt-v/kowalski-python/tree/main/dspam) \* 2
     -   [yoda_translator](https://github.com/dlt-v/kowalski-python/tree/main/yoda)
