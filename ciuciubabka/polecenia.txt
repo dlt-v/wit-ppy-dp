@@ -1,0 +1,8 @@
+przód 3
+lewo 3
+przód 2
+lewo 2
+tył 1
+lewo 3
+tył 2
+prawo 1

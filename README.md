@@ -5,7 +5,7 @@ Na bazie pytań z poprzedniego roku + z zadań zaocznych tego roku. Używaj na w
 Zadania
 
 -   (20pkt)
-    -   [deck_of_cards](https://github.com/dlt-v/kowalski-python/tree/main/deck_of_cards)
+    -   [deck_of_cards / karty](https://github.com/dlt-v/kowalski-python/tree/main/deck_of_cards)
     -   [big_litera](https://github.com/dlt-v/kowalski-python/tree/main/big_litera)
     -   [encrypt_sc](https://github.com/dlt-v/kowalski-python/tree/main/encrypt_sc)
     -   [babagra](https://github.com/dlt-v/kowalski-python/tree/main/babagra)
@@ -16,3 +16,4 @@ Zadania
     -   [wordcount](https://github.com/dlt-v/kowalski-python/tree/main/wordcount)
     -   [dziadek_dzidek](https://github.com/dlt-v/kowalski-python/tree/main/dziadek_dzidek) \* 2
     -   [kalkulator_lukasiewicza](https://github.com/dlt-v/kowalski-python/tree/main/lukasiewicz)
+    -   [ciuciubabka](https://github.com/dlt-v/kowalski-python/tree/main/ciuciubabka)
